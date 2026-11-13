@@ -1,4 +1,4 @@
-![RAIJU — @raiju365](./raiju-banner.png)
+![Fahmi Aufa — @raiju365](./raiju-banner.png)
 
 **Informatics student at Telkom University**  
 Exploring web development and interface design.
