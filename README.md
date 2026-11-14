@@ -6,6 +6,12 @@ Informatics student at Telkom University. I build web projects and explore how t
 
 ## Selected work
 
+### CheckMyLaptop
+
+A Windows laptop diagnostic tool that checks battery, storage, drivers, and performance, then explains what to investigate first. Built with Python and Go. Scans run locally.
+
+[Source code](https://github.com/raiju365/CheckMyLaptop) · [Usage guide (Bahasa Indonesia)](https://github.com/raiju365/CheckMyLaptop/blob/main/docs/panduan-id.md)
+
 ### Otherflavos
 
 An interactive portfolio with a project gallery, switchable themes, and three browser puzzles. Built with JavaScript and Vite.
