@@ -1,37 +1,24 @@
-![RAIJU wordmark beside a folded chrome ribbon](./raiju-masthead.webp)
-
 # Fahmi Aufa
 
 Informatics student at Telkom University. I build web projects and explore how typography, motion, and interaction shape an interface.
 
-## Selected work
+## CheckMyLaptop
 
-### CheckMyLaptop
+Windows laptop diagnostics for battery, storage, drivers, and performance. Scans run locally and explain what to check first. Built with Python and Go.
 
-A Windows laptop diagnostic tool that checks battery, storage, drivers, and performance, then explains what to investigate first. Built with Python and Go. Scans run locally.
+**[View repository](https://github.com/raiju365/CheckMyLaptop)** · [Panduan Bahasa Indonesia](https://github.com/raiju365/CheckMyLaptop/blob/main/docs/panduan-id.md)
 
-[Source code](https://github.com/raiju365/CheckMyLaptop) · [Usage guide (Bahasa Indonesia)](https://github.com/raiju365/CheckMyLaptop/blob/main/docs/panduan-id.md)
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./checkmylaptop-report-compact-dark.webp">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./checkmylaptop-report-compact-light.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="./checkmylaptop-report-dark.webp">
+  <img src="./checkmylaptop-report-light.webp" alt="Simulated CheckMyLaptop report. Battery at 62% of design capacity, 8.0 GiB free on C:, and 480 MiB median available RAM. The storage warning recommends backing up important files first." width="860">
+</picture>
 
-### Otherflavos
+## Other work
 
-An interactive portfolio with a project gallery, switchable themes, and three browser puzzles. Built with JavaScript and Vite.
+- **[Otherflavos](https://otherflavos.vercel.app/)** · [Source](https://github.com/raiju365/otherflavos)<br>An interactive portfolio with a project gallery, switchable themes, and three browser puzzles.
+- **[FLAVOS](https://flavos-dusky.vercel.app/)** · [Source](https://github.com/raiju365/flavos)<br>An editorial portfolio that pairs classical artwork with an orbital project gallery.
+- **[Class Leader Voting DApp](https://github.com/raiju365/class-leader-voting-dapp)**<br>A Rust smart contract on Stellar that registers candidates, records votes, and returns vote totals using Soroban.
 
-[Open site ↗](https://otherflavos.vercel.app/) · [Source code](https://github.com/raiju365/otherflavos)
-
-[![Otherflavos Play page featuring Untangle, Conduit, and Shift](./otherflavos-preview.webp)](https://otherflavos.vercel.app/)
-
-### FLAVOS
-
-An editorial portfolio that pairs classical artwork with an orbital project gallery.
-
-[Open site ↗](https://flavos-dusky.vercel.app/) · [Source code](https://github.com/raiju365/flavos)
-
-### Class Leader Voting DApp
-
-A Rust smart contract on Stellar that registers candidates, records votes, and returns vote totals using Soroban.
-
-[Source code](https://github.com/raiju365/class-leader-voting-dapp)
-
----
-
-[All repositories ↗](https://github.com/raiju365?tab=repositories)
+[All repositories](https://github.com/raiju365?tab=repositories)
