@@ -8,12 +8,11 @@ Windows laptop diagnostics for battery, storage, drivers, and performance. Scans
 
 **[View repository](https://github.com/raiju365/CheckMyLaptop)** · [Panduan Bahasa Indonesia](https://github.com/raiju365/CheckMyLaptop/blob/main/docs/panduan-id.md)
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./checkmylaptop-report-compact-dark.webp">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./checkmylaptop-report-compact-light.webp">
-  <source media="(prefers-color-scheme: dark)" srcset="./checkmylaptop-report-dark.webp">
-  <img src="./checkmylaptop-report-light.webp" alt="Simulated CheckMyLaptop report. Battery at 62% of design capacity, 8.0 GiB free on C:, and 480 MiB median available RAM. The storage warning recommends backing up important files first." width="860">
-</picture>
+Demo output from `python -m checkmylaptop --demo --cli`.
+
+> **Storage needs attention**<br>Disk 0 (Demo SSD). Windows health: Warning.<br>Device reports 4 uncorrected read/write errors in total.
+>
+> **Next step**<br>Back up important files, then run the manufacturer's storage diagnostic.
 
 ## Other work
 
